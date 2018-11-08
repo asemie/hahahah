@@ -8,14 +8,14 @@ int main()
 	float mother;
 	float son;
 	
-	printf("ÇëÊäÈë¸¸Ç×µÄÉí¸ß£º\n")
+	printf("è¯·è¾“å…¥çˆ¶äº²çš„èº«é«˜ï¼š\n")ï¼›
 	scanf("%f",&father);
 
-	printf("ÇëÊäÈëÄ¸Ç×µÄÉí¸ß£º\n")
+	printf("è¯·è¾“å…¥æ¯äº²çš„èº«é«˜ï¼š\n")ï¼›
 	scanf("%f",&mother);
 
 	son=height(father;mother);
-	printf("Ô¤²â¶ù×ÓµÄÉí¸ß£º")
+	printf("é¢„æµ‹å„¿å­çš„èº«é«˜ï¼š")
 	printf("%.2f\n",son);
 	return 0;
 }
