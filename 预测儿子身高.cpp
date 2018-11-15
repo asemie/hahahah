@@ -8,10 +8,10 @@ int main()
 	float mother;
 	float son;
 	
-	printf("请输入父亲的身高：\n")
+	printf("请输入父亲的身高：\n");
 	scanf("%f",&father);
 
-	printf("请输入母亲的身高：\n")
+	printf("请输入母亲的身高：\n");
 	scanf("%f",&mother);
 
 	son=height(father;mother);
